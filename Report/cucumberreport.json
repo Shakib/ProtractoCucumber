@@ -1,0 +1,320 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "I am going to validate RCO website functionalities",
+    "line": 1,
+    "id": "i-am-going-to-validate-rco-website-functionalities",
+    "tags": [],
+    "uri": "M6AuthAdmin\\M6AuthAdminFeatures\\demoOne.feature",
+    "elements": [
+      {
+        "id": "i-am-going-to-validate-rco-website-functionalities;calculator-add-functionality-testing",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Calculator add functionality testing",
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I will navigate to Calcs site",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4605000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I add two numbers \"5\" and \"7\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 284000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "the output displyed should be \"12\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2319000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\hooks.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "i-am-going-to-validate-rco-website-functionalities;calculator-add-functionality-testing",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Calculator add functionality testing",
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I will navigate to Calcs site",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 319000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I add two numbers \"10\" and \"8\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 330000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "the output displyed should be \"18\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2194000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\hooks.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "i-am-going-to-validate-rco-website-functionalities;calculator-add-functionality-testing",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Calculator add functionality testing",
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I will navigate to Calcs site",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 204000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I add two numbers \"15\" and \"2\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 157000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "the output displyed should be \"17\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\admin.steps.ts:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1953000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\hooks.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "i-am-going-to-validate-rco-website-functionalities;jag-går-och-kontrollera-att-kalkulator-fungerar",
+        "keyword": "Scenario",
+        "line": 26,
+        "name": "Jag går och kontrollera att kalkulator fungerar",
+        "tags": [
+          {
+            "name": "@functional",
+            "line": 16
+          },
+          {
+            "name": "@regression",
+            "line": 17
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 20,
+            "name": "Jag vill navigera till kalkulator och kolla läget",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\SE.steps.ts:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 292000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "Jag läger två nummer först \"40\" och andra \"60\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\SE.steps.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 137000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "output måste vara \"100\"",
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\SE.steps.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1973000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "M6AuthAdmin\\StepDefinations-Admin\\hooks.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
