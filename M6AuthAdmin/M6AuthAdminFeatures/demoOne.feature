@@ -9,7 +9,7 @@ Then the output displyed should be "<result>"
 
 Examples:
 | key1| key2 | result |
-| 5  |  7    |    121  |
+| 5  |  7    |    12  |
 | 10 |  8   |    18 |
 | 15 |  2   |   17  |
 
